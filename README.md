@@ -28,7 +28,7 @@ const activity = { setActivity: "Custom Status", typeActivity: "PLAYING" };
 setup({ commands, token, activity });
 ```
 
-**setup(params)**
+**`setup(params)`**
 
 Function to set up the Discord bot.
 
