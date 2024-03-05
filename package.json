@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/farizulhammi/discord-simple-command/issues"
   },
-  "homepage": "https://github.com/farizulhammi/discord-simple-command#readme"
+  "homepage": "https://github.com/farizulhammi/discord-simple-command#readme",
+  "dependencies": {
+      "discord.js": "^13.10.3"
+  }
 }
