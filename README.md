@@ -3,13 +3,13 @@ A simple Discord bot package that responds commands with custom messages and act
 ### Installation
 
 ```bash
-npm install discord-simple-command
+npm install discord-simple-commands
 ```
 
 ### Usage
 
 ```javascript
-const setup = require("discord-simple-command");
+const setup = require("discord-simple-commands");
 
 // Define your custom commands and responses
 const commands = {
