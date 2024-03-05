@@ -1,4 +1,4 @@
-A simple Discord bot package that responds to predefined commands with custom messages and activities.
+A simple Discord bot package that responds commands with custom messages and activities.
 
 ### Installation
 
